@@ -1,0 +1,29 @@
+{
+  "type": "googlesheets",
+  "host": null,
+  "port": null,
+  "databaseName": null,
+  "databaseUsername": null,
+  "databasePassword": null,
+  "description": null,
+  "outboundRegion": null,
+  "ssl": null,
+  "editPrivilege": null,
+  "options": {
+    "oauth2_scope": "email profile https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/spreadsheets",
+    "authentication": "oauth2",
+    "oauth2_auth_url": "https://accounts.google.com/o/oauth2/v2/auth",
+    "oauth2_id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk1NDRkMGZmMDU5MGYwMjUzMDE2NDNmMzI3NWJmNjg3NzY3NjU4MjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI3MTYzNjczMDY4NjctZDg2MXRqcWo5MmdqYjB1cGhjanQ4Z3UybnZ0ZjZlOXQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI3MTYzNjczMDY4NjctZDg2MXRqcWo5MmdqYjB1cGhjanQ4Z3UybnZ0ZjZlOXQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTI4Mjc4NjI3Nzc4MTY3MzMwMDAiLCJlbWFpbCI6Im5pY2ttcGFsYWNpb0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InExR2JtMmNMRXgyNGRqX0wzTUNFeXciLCJuYW1lIjoiTmljIFBhbGFjaW8iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkJzU0JmbUF6YXgydUNDTUZQekhNcjlNd19rTThEX0kzczFERkU3TnhlNUtpakw0RT1zOTYtYyIsImdpdmVuX25hbWUiOiJOaWMiLCJmYW1pbHlfbmFtZSI6IlBhbGFjaW8iLCJpYXQiOjE3NjkyOTc4NjgsImV4cCI6MTc2OTMwMTQ2OH0.fM6GjKbMF7Ak00BKH2dObI5ex0jGyMQGG01ivACtvYsf2atBOYUI0ysH2MUW8YzQgj7_JianoKW1rJgIxQpdfeLXFR1e6Z_tcfjAltpNmrJqUy2P4kafkjLuE2EsLr5A7MYNsXURZLklDLOXzmnWxJCn2akdvzOQM-76TFDP4RL6ld_eUDavug2RRFW9mg1eC8Z0X01dkGOxzZYPgL8WGtH07ViuUSTv7YqjRBXp3S8slR6r8_JsJGHcpTTqCh9W4uu9dM6f8kCw2uGydX5OcZK3xlt4PPg_UzbTKGSeweLSFhH6QEQFBhcfNQlPZQFPJmD3DzK5xDvPZVwr69aoFA",
+    "oauth2_client_id": "716367306867-d861tjqj92gjb0uphcjt8gu2nvtf6e9t.apps.googleusercontent.com",
+    "oauth2_access_token": "",
+    "oauth2_callback_url": "OAUTH2_SHARED_CALLBACK_URL",
+    "oauth2_client_secret": "",
+    "oauth2_refresh_token": "",
+    "oauth2_access_token_url": "https://www.googleapis.com/oauth2/v4/token",
+    "oauth2_share_user_credentials": true
+  },
+  "environment": "production",
+  "dynamicallyQueryable": false,
+  "uuid": "90d1d7a6-97a5-4d8d-bfee-0854b8c71b22",
+  "toolscriptVersion": "1.0.0"
+}
